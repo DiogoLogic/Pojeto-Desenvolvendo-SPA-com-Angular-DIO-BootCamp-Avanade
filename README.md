@@ -35,7 +35,11 @@ Página: Excluir cadastros, Projeto Employee.
 ![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img5.png)
 
 Página: Editar/Alterar cadastro de Funcionário, Projeto Employee. 
-![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img6.png)
+![employeeImg6](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img6.png)
+
+fazendo requesições HTTP no backend com Json: 
+![employeeImg7](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img7.jpg)
+
 
 
 

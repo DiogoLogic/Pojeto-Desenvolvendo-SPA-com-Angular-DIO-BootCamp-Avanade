@@ -24,7 +24,14 @@ Página: Funcionários cadastrados, Projeto Employee.
 Página: Funcionários cadastrados, Projeto Employee. 
 ![employeeImg4](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img4.png)
 
-Página: Funcionários cadastrados, Projeto Employee. 
+Página: disparando eventos de mensagens com ANGULAR MATERIAL "SnackBar", EXEMPLO:   (showMessage(msg: string, isError: boolean = false): void {
+    this.snackBar.open(msg, 'Fechar', {
+      duration: 8000,
+      horizontalPosition: "right",
+      verticalPosition: "top",
+      panelClass: isError ? ["msg-error"] : ["msg-success"],
+    })
+  }), Projeto Employee. 
 ![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img5.png)
 
 Página: Editar/Alterar cadastro de Funcionário, Projeto Employee. 

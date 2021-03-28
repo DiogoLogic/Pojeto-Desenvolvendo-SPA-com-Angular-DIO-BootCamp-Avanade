@@ -21,7 +21,7 @@ Página: Cadastro de funcionário, Projeto Employee.
 Página: Funcionários cadastrados, Projeto Employee. 
 ![employeeImg3](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img3.png)
 
-Página: Funcionários cadastrados, Projeto Employee. 
+Página: Excluir cadastros, Projeto Employee. 
 ![employeeImg4](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img4.png)
 
 (OBS:) disparando eventos de mensagens com ANGULAR MATERIAL "SnackBar", EXEMPLO:   (showMessage(msg: string, isError: boolean = false): void {

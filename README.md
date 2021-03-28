@@ -13,11 +13,17 @@ OS: win32 x64
 ![employeeImg1](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img1.png)
 
 Página: cadastro de funcionários, Projeto Employee. 
+
 ![employeeImg2](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img2.png)
+
 Página: Funcionários cadastrados, Projeto Employee. 
+
 ![employeeImg3](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img3.png)
+
 Página: Funcionários cadastrados, Projeto Employee. 
+
 ![employeeImg4](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img4.png)
+
 ![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img5.png)
 
 

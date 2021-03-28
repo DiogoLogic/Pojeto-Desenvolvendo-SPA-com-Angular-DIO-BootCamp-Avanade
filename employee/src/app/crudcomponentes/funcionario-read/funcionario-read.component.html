@@ -1,0 +1,54 @@
+<h1>Funcionários Cadastrados</h1>
+<div class="mat-elevation-z4">
+    <table mat-table [dataSource]="funcionarios">
+      <!-- Id Column -->
+      <ng-container matColumnDef="id">
+        <th mat-header-cell *matHeaderCellDef>Id</th>
+        <td mat-cell *matCellDef="let row">{{row.id}}</td>
+      </ng-container>
+
+        <!-- cpf Column -->
+        <ng-container matColumnDef="CPF">
+            <th mat-header-cell *matHeaderCellDef>CPF</th>
+            <td mat-cell *matCellDef="let row">{{row.CPF}}</td>
+          </ng-container>
+  
+      <!-- Name Column -->
+      <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef>Name</th>
+        <td mat-cell *matCellDef="let row">{{row.name}}</td>
+      </ng-container>
+
+        <!-- Departamento Column -->
+        <ng-container matColumnDef="departamento">
+            <th mat-header-cell *matHeaderCellDef>Departamento</th>
+            <td mat-cell *matCellDef="let row">{{row.departamento}}</td>
+          </ng-container>
+  
+      <!-- Salario Column -->
+      <ng-container matColumnDef="salario">
+        <th mat-header-cell *matHeaderCellDef>Salario</th>
+        <td mat-cell *matCellDef="let row">{{row.salario | currency: 'BRL' }}</td>
+      </ng-container>
+
+      <!-- Action Column -->
+      <ng-container matColumnDef="action">
+        <th mat-header-cell *matHeaderCellDef>Ações</th>
+        <td mat-cell *matCellDef="let row">
+            <a routerLink="/funcionarios/update/{{row.id}}" class="edit">
+                <i class="material-icons">
+                    edit
+                </i>
+            </a>
+            <a routerLink="/funcionarios/delete/{{row.id}}" class="delete">
+                <i class="material-icons">
+                    delete
+                </i>
+            </a>
+        </td>
+      </ng-container>
+  
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </div>

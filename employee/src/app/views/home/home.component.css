@@ -1,0 +1,37 @@
+.home{
+    height: 400px;
+    width: 1050px;
+    background: rgba(224, 222, 222, 0.527);
+   
+}
+
+.home .title {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color:#00b7ff;;
+    margin-left: 10%;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
+    color: #00b7ff;;
+    
+}
+
+.home .button{
+     font-size: large;
+     padding-top: 1%;  
+     margin-left:40%;
+    
+ 
+}
+
+.home .div{
+    width: 300px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+
+}
+

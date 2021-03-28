@@ -1,0 +1,11 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "CPF": "08405906984",
+      "name": "DIogoDev",
+      "departamento": "Angular developer",
+      "salario": "15000"
+    }
+  ]
+}

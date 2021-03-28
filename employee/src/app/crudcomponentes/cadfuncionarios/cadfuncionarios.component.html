@@ -1,0 +1,36 @@
+<mat-card>
+    <mat-card-title>
+        Cadastrar funcionário
+    </mat-card-title>
+    <form>
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="CPF" [(ngModel)]="funcionarios.CPF" name="CPF">
+            </mat-form-field>
+        </div>
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="Nome" [(ngModel)]="funcionarios.name" name="name">
+            </mat-form-field>
+        </div>
+      
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="Departamento" [(ngModel)]="funcionarios.departamento" name="departamento">
+            </mat-form-field>
+        </div>
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="Salário" [(ngModel)]="funcionarios.salario" name="salario">
+            </mat-form-field>
+        </div>
+        
+
+    </form>
+    <button mat-raised-button (click)="cadFuncionariomsg()"color="warn">Salvar
+    </button>
+
+
+    <button mat-raised-button (click)="cancel()">Cancelar
+    </button>
+</mat-card>

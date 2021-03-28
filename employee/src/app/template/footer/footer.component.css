@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    background: #00b7ff;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer > span {
+    font-size: 1.1rem;
+    font-weight: 300;
+    font-style:normal;
+    color: aliceblue;
+
+}

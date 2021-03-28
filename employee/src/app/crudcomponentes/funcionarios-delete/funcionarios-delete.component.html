@@ -1,0 +1,37 @@
+
+<mat-card>
+    <mat-card-title>
+        Confirmar Exclusão do Funcionário.
+    </mat-card-title>
+    <form>
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="CPF" [value]="funcionarios.CPF" name="CPF" disabled>
+            </mat-form-field>
+        </div>
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="Nome" [value]="funcionarios.name" name="name" disabled>
+            </mat-form-field>
+        </div>
+      
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="Departamento" [value]="funcionarios.departamento" name="departamento" disabled>
+            </mat-form-field>
+        </div>
+        <div>
+            <mat-form-field>
+                <input matInput placeholder="Salário" [value]="funcionarios.salario" name="salario" disabled>
+            </mat-form-field>
+        </div>
+        
+
+    </form>
+    <button mat-raised-button (click)="deleteFuncionario()" color="warn">Excluir
+    </button>
+
+
+    <button mat-raised-button (click)="cancel()">Cancelar
+    </button>
+</mat-card>

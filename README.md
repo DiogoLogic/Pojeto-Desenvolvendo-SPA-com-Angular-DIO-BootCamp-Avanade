@@ -15,17 +15,16 @@ Página: inicial, Projeto Employee.
 ![employeeImg1](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img1.png)
 
 
-
+Página: Funcionários cadastrados, Projeto Employee.
 ![employeeImg2](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img2.png)
 
 Página: Funcionários cadastrados, Projeto Employee. 
-
 ![employeeImg3](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img3.png)
 
 Página: Funcionários cadastrados, Projeto Employee. 
-
 ![employeeImg4](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img4.png)
 
+Página: Funcionários cadastrados, Projeto Employee. 
 ![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img5.png)
 
 

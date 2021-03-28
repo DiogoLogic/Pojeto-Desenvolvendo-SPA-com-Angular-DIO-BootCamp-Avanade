@@ -24,7 +24,7 @@ Página: Funcionários cadastrados, Projeto Employee.
 Página: Funcionários cadastrados, Projeto Employee. 
 ![employeeImg4](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img4.png)
 
-Página: disparando eventos de mensagens com ANGULAR MATERIAL "SnackBar", EXEMPLO:   (showMessage(msg: string, isError: boolean = false): void {
+(OBS:) disparando eventos de mensagens com ANGULAR MATERIAL "SnackBar", EXEMPLO:   (showMessage(msg: string, isError: boolean = false): void {
     this.snackBar.open(msg, 'Fechar', {
       duration: 8000,
       horizontalPosition: "right",

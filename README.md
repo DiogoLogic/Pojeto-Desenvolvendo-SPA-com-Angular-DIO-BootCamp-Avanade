@@ -15,7 +15,7 @@ Página: inicial, Projeto Employee.
 ![employeeImg1](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img1.png)
 
 
-Página: Funcionários cadastrados, Projeto Employee.
+Página: Cadastro de funcionário, Projeto Employee.
 ![employeeImg2](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img2.png)
 
 Página: Funcionários cadastrados, Projeto Employee. 

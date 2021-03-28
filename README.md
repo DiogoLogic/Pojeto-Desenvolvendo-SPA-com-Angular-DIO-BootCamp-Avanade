@@ -27,7 +27,8 @@ Página: Funcionários cadastrados, Projeto Employee.
 Página: Funcionários cadastrados, Projeto Employee. 
 ![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img5.png)
 
-
+Página: Editar/Alterar cadastro de Funcionário, Projeto Employee. 
+![employeeImg5](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img6.png)
 
 
 

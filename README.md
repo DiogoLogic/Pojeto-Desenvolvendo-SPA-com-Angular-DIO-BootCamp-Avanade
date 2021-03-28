@@ -10,9 +10,11 @@ Angular CLI: 10.1.7
 Node: 14.16.0
 OS: win32 x64
 
+
+Página: inicial, Projeto Employee. 
 ![employeeImg1](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img1.png)
 
-Página: cadastro de funcionários, Projeto Employee. 
+
 
 ![employeeImg2](https://github.com/DiogoLogic/Pojeto-Desenvolvendo-SPA-com-Angular-DIO-BootCamp-Avanade/blob/main/img2.png)
 
